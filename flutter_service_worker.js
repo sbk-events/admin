@@ -30,7 +30,7 @@ const RESOURCES = {
 "assets/assets/images/upload_placeholder.png": "4d4ee5ddb84ee06175ad8e709c835ef1",
 "assets/FontManifest.json": "4483e4fd5ce34d8a22fc7f9487da0eb2",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "9170762621dcd5e54f63c3c9144bf616",
+"assets/NOTICES": "652e7cdad34749d896b9a8252ee1972e",
 "assets/packages/amplify_authenticator/assets/social-buttons/google.png": "a1e1d65465c69a65f8d01226ff5237ec",
 "assets/packages/amplify_authenticator/assets/social-buttons/SocialIcons.ttf": "1566e823935d5fe33901f5a074480a20",
 "assets/packages/amplify_auth_cognito_dart/lib/src/workers/workers.min.js": "131c9c2f531fd44cd50a532db60eb65e",
@@ -69,9 +69,9 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/ic_launcher_round.png": "4c1b798ffe322ebf3ec9aa4c47e13377",
-"index.html": "486befbc7cb6ada845dfbcb5e1cd66da",
-"/": "486befbc7cb6ada845dfbcb5e1cd66da",
-"main.dart.js": "bffa13c4b63c97584fec477af802ac7c",
+"index.html": "46fce6dc8092e4fd897e1e48f2225ecd",
+"/": "46fce6dc8092e4fd897e1e48f2225ecd",
+"main.dart.js": "1d27cec7f452f0ca4fa27a09c6364362",
 "manifest.json": "8f86425a7cfb85a0f04246e146cd9eec",
 "version.json": "e29cec59698af6bdf88d6a7b5c412317"
 };
